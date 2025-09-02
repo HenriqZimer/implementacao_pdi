@@ -4,7 +4,7 @@ Projeto de implementação das atividades de M1.1 - PDI 2025-02
 
 ## Grupo
 Integrantes:
-- [Nome completo dos integrantes]
+- Henrique Zimermann e Mateus Winter
 
 ## Implementação M1.1
 
@@ -160,4 +160,5 @@ make
 ## Nomenclatura
 - **Arquivos**: tudo minúsculo (snake_case)
 - **Classes**: CamelCase
+
 - **Métodos e variáveis**: snake_case (devem ser sugestivos)
