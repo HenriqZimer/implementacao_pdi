@@ -77,7 +77,3 @@ help:
 	@echo "  make run-test - Alias para make no-gui (recomendado para WSL)"
 	@echo "  make clean    - Remove arquivos de compilação"
 	@echo "  make help     - Mostra esta ajuda"
-	@echo ""
-	@echo "Recomendado para WSL/terminal: make run-test"
-	@echo ""
-	@echo "Observação: O aviso QStandardPaths foi suprimido no make run"
