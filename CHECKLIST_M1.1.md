@@ -215,36 +215,6 @@ pdi_code/                           ✅ Estrutura mantida
 
 ---
 
-### 🏆 **6. MÉTRICAS QUANTITATIVAS**
-
-| Métrica | Valor | Status |
-|---------|-------|--------|
-| **Algoritmos Obrigatórios** | 10/10 | ✅ 100% |
-| **Classes Implementadas** | 6 | ✅ Completo |
-| **Métodos Públicos** | 47 | ✅ Completo |
-| **Linhas de Código** | 2.267 | ✅ Robusto |
-| **Arquivos Header** | 6 | ✅ Organizado |
-| **Arquivos Implementação** | 6 | ✅ Organizado |
-| **Programas Demonstração** | 4 | ✅ Múltiplas opções |
-| **Imagens Teste** | 3 | ✅ Conforme requisito |
-| **Resultados Gerados** | 24 | ✅ Extensivo |
-| **Compilação** | ✅ Sem erros | ✅ Limpo |
-
----
-
-### 🏆 **7. PONTUAÇÃO FINAL ESTIMADA**
-
-Baseado na fórmula: **M1.1 = ((Corretude × 5) + (Documentação × 3) + (Apresentação × 2)) / 10**
-
-| Critério | Peso | Nota Estimada | Pontos |
-|----------|------|---------------|---------|
-| **Corretude** | 5 | 10,0 | 50,0 |
-| **Documentação** | 3 | 10,0 | 30,0 |
-| **Apresentação** | 2 | 9,5 | 19,0 |
-| **TOTAL** | 10 | **9,9** | **99,0** |
-
----
-
 ## 🎯 **CONCLUSÃO FINAL**
 
 ### ✅ **TODOS OS CRITÉRIOS M1.1 FORAM ATENDIDOS COMPLETAMENTE**
