@@ -35,7 +35,7 @@
 | ✅ **Conversão Tons de Cinza - Média Ponderada** | ✅ IMPLEMENTADO | `conv/grayscale.cpp:get_gray_weighted()` | `02_gray_weighted.jpg` |
 | ✅ **Operações Aritméticas - Imagem+Escalar** | ✅ IMPLEMENTADO | `arit/arithmetic.cpp` | `03-06_*.jpg` |
 | ✅ **Operações Aritméticas - Imagem+Imagem** | ✅ IMPLEMENTADO | `arit/arithmetic.cpp` | `07-08_*.jpg` |
-| ✅ **Limiarização tons de cinza** | ✅ IMPLEMENTADO | `thre/threshold.cpp` | `09-12_*.jpg` |
+| ✅ **Limiarização tons de cinza** | ✅ IMPLEMENTADO | `thre/threshold.cpp` | `09-12_*.jpg` |"
 | ✅ **Limiarização colorida** | ✅ IMPLEMENTADO | `thre/threshold.cpp` | `13_color_binary.jpg` |
 | ✅ **Isolar Canais R/G/B** | ✅ IMPLEMENTADO | `conv/channel_isolator.cpp` | `14-19_*.jpg` |
 | ✅ **Histograma - Computação** | ✅ IMPLEMENTADO | `histo/histogram.cpp` | Estatísticas exibidas |
@@ -213,8 +213,8 @@ pdi_code/                           ✅ Estrutura mantida
     └── 23_recombined.jpg          ✅ Canais recombinados
 ```
 
----
-
+---"
+"
 ## 🎯 **CONCLUSÃO FINAL**
 
 ### ✅ **TODOS OS CRITÉRIOS M1.1 FORAM ATENDIDOS COMPLETAMENTE**
